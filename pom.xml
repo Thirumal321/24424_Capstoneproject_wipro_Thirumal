@@ -28,6 +28,7 @@
             <artifactId>selenium-java</artifactId>
             <version>4.29.0</version>
         </dependency>
+    <!-- Apache dependencies -->
         <dependency>
     <groupId>io.cucumber</groupId>
     <artifactId>cucumber-plugin</artifactId>
@@ -43,12 +44,7 @@
         <artifactId>poi-ooxml</artifactId>
         <version>5.2.3</version>
     </dependency>
-    <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.8.0</version>
-            <scope>test</scope>
-        </dependency>
+  
 
  </dependencies>
 
